@@ -4,6 +4,15 @@
 
 ## Link do codepen.io 🌐
 
-Confira o código no seguinte link:
+Confira no seguinte link:
 
 [CODEPEN.IO](https://codepen.io/Lauane-Toledo/pen/mdYVwPK)
+
+## ◼️ Linguagens utilizadas
+
+* [HTML]()- HyperText Markup Language
+* [CSS]() - Cascading Style Sheets
+
+## Breve exibição da animação 📔
+
+![gif](https://github.com/lautoledo/animacaoimgzoom/blob/22f5ac699872be182b34846f952c98168aaf6266/bandicam%202024-05-20%2020-55-00-402.gif)
