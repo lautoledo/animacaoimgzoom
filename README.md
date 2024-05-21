@@ -10,8 +10,8 @@ Confira no seguinte link:
 
 ## ◼️ Linguagens utilizadas
 
-* [HTML]()- HyperText Markup Language
-* [CSS]() - Cascading Style Sheets
+* [HTML](https://github.com/lautoledo/animacaoimgzoom/blob/main/index.html)- HyperText Markup Language
+* [CSS](https://github.com/lautoledo/animacaoimgzoom/blob/main/style.css) - Cascading Style Sheets
 
 ## Breve exibição da animação 📔
 
